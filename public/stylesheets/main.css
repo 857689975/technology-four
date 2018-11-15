@@ -170,7 +170,7 @@ area {
 
 .headDiv .logo {
     display: block;
-    background: url("../images/logo.png") center no-repeat;
+    background: url("../images/head/logo2.png") center no-repeat;
     width: 136px;
     height: 64px;
     position: absolute;
@@ -205,7 +205,7 @@ area {
     position: absolute;
     top: 0px;
     right: 0px;
-    background: url("../images/btn1.png") center no-repeat;
+    background: url("../images/other/btn1.png") center no-repeat;
     width: 58px;
     height: 36px;
 }
@@ -228,15 +228,15 @@ area {
 }
 
 .topBtn .li_01 a {
-    background: url("../images/img33_1.png") center no-repeat;
+    background: url("../images/other/img33_1.png") center no-repeat;
 }
 
 .topBtn .li_02 a {
-    background: url("../images/img33_2.png") center no-repeat;
+    background: url("../images/other/img33_2.png") center no-repeat;
 }
 
 .topBtn .li_03 a {
-    background: url("../images/img33_3.png") center no-repeat;
+    background: url("../images/other/img33_3.png") center no-repeat;
 }
 
 .nav {
@@ -622,7 +622,7 @@ area {
     padding: 0 25px 0 7px;
     height: 70px;
     line-height: 70px;
-    background: url("../images/ico13.png") right center no-repeat;
+    background: url("../images/other/ico13.png") right center no-repeat;
 }
 
 .pageBanner2-1 {
@@ -635,7 +635,7 @@ area {
 
 .topA {
     display: block;
-    background: url("../images/topA.png") center no-repeat;
+    background: url("../images/other/topA.png") center no-repeat;
     width: 53px;
     height: 53px;
     position: fixed;
@@ -656,7 +656,7 @@ area {
     display: inline-block;
     height: 88px;
     font-size: 16px;
-    background: url("../images/nimg19.png") left center no-repeat;
+    background: url("../images/other/nimg19.png") left center no-repeat;
     padding-left: 29px;
 }
 
@@ -665,7 +665,7 @@ area {
     top: 0px;
     right: 0px;
     height: 88px;
-    background: url("../images/nimg9.png") left center no-repeat;
+    background: url("../images/other/nimg9.png") left center no-repeat;
     padding-left: 15px;
     font-size: 14px;
 }
